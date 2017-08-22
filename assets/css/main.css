@@ -1552,7 +1552,7 @@
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Kite One', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -1580,7 +1580,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: #16a085;
 		line-height: 1.5em;
 	}
 
@@ -1590,7 +1590,7 @@
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #16a085;
 		}
 
 	h2 {
@@ -1624,7 +1624,7 @@
 
 	strong, b {
 		font-weight: 300;
-		color: #666;
+		color: #16a085;
 	}
 
 	em, i {
@@ -1643,7 +1643,7 @@
 	}
 
 		a:hover {
-			color: #E27689;
+			color: #545252;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -1877,13 +1877,13 @@
 			table.default th {
 				text-align: left;
 				padding: 0.5em 1em 0.5em 1em;
-				color: #fff;
+				color: #16a085;
 				background: #222729 url("images/overlay.png");
 			}
 
 			table.default thead {
 				background: #444;
-				color: #fff;
+				color: #16a085;
 			}
 
 			table.default tfoot {
@@ -1903,7 +1903,7 @@
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		background-color: #16a085;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1989,7 +1989,7 @@
 		justify-content: space-between;
 		background: #222629 url("images/overlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
-		color: #fff;
+		color: #16a085;
 		height: 100%;
 		left: 0;
 		overflow-y: auto;
@@ -2032,7 +2032,7 @@
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					color: #16a085;
 				}
 
 	#logo {
@@ -2044,7 +2044,7 @@
 
 		#logo h1 {
 			position: relative;
-			color: #fff;
+			color: #16a085;
 			font-weight: 600;
 			font-size: 1em;
 			line-height: 1em;
@@ -2100,11 +2100,11 @@
 			#nav ul li a.active {
 				background: rgba(0, 0, 0, 0.15);
 				box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
-				color: #fff;
+				color: #16a085;
 			}
 
 				#nav ul li a.active span:before {
-					color: #e27689;
+					color: #16a085;
 				}
 
 /* Footer */
@@ -2183,7 +2183,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/codigo.jpg");
+				background-image: url("../../images/coding.jpg");
 			}
 
 			#main > section.two {
@@ -2558,3 +2558,12 @@
 				}
 
 	}
+
+.presentacion{
+	text-align: justify;
+	font-size: 20px;
+}
+#footer{
+	background-color: #16a085;
+	color: white;
+}
