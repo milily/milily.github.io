@@ -1959,7 +1959,7 @@
 		.icon:before {
 			display: inline-block;
 			font-family: FontAwesome;
-			font-size: 1.25em;
+			font-size: 1.4em;
 			text-decoration: none;
 			font-style: normal;
 			font-weight: normal;
@@ -2024,7 +2024,7 @@
 		}
 
 			#header .icons a {
-				color: #41484c;
+				color: #AFB1B2;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
